@@ -8,5 +8,10 @@ Using python and selenium this project will be able to upload the files of forma
 
 All you have to do to get started is by creating a folder and dump your images after which run this program to upload your pins.
 
+**attention**
+Make sure you alter your folder path in the code snippet
+![alt text](MetaData/FolderPath.PNG)
+
+After you run your program in the middle of the process you will be promted for your board selection
 
 
