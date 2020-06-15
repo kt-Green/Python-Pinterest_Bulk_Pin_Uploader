@@ -10,8 +10,15 @@ All you have to do to get started is by creating a folder and dump your images a
 
 **attention**
 Make sure you alter your folder path in the code snippet
-![alt text](MetaData/FolderPath.PNG)
+![Folder/Path](MetaData/FolderPath.PNG)
 
 After you run your program in the middle of the process you will be promted for your board selection
+![BoardSelect](MetaData/BoardSelect.PNG)
 
+After your selection this is gonna be your result
+![Final Result](MetaData/Final.gif)
 
+Actually this is version two of the solution and in the first version there will be a file.txt which will hold the board instead of getting it from the webelement...
+
+If you want to convert this into a executable file install "pyinstaller package" and in your terminal execute this command 
+"pyinstaller --onefile yourScript.py"
