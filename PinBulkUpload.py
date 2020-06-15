@@ -6,8 +6,8 @@ from selenium import webdriver
 from random import randint
 
 # Your Pinterest account details
-user_mail = input("Enter your username/email: ") 
-user_password = input("Enter your password: ")
+user_mail = input("Username/Email: ") 
+user_password = input("Password: ")
 
 # Selenium predefined xpaths and href's do not mess with these predefinition update them if they have expired
 pinterest_home = "https://pinterest.ca/"
