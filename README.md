@@ -18,7 +18,7 @@ After you run your program in the middle of the process you will be promted for 
 After your selection this is gonna be your result
 ![Final Result](MetaData/Final.gif)
 
-Actually this is version two of the solution and in the first version there will be a file.txt which will hold the board instead of getting it from the webelement...
+Actually this is version two of the solution and in the first version there will be a file.txt which will hold the board titles instead of getting it from the webelement...
 
 If you want to convert this into a executable file install "pyinstaller package" and in your terminal execute this command 
 "pyinstaller --onefile yourScript.py"
